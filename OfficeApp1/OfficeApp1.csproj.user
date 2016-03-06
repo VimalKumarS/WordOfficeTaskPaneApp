@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>http://apttus-pc/</SharePointSiteUrl>
+    <OfficeAppStartAction>Microsoft Word</OfficeAppStartAction>
+    <GeneratedFeatureId>15ca06e1-a722-4256-8ab1-6a715c7b1aeb</GeneratedFeatureId>
+    <GeneratedPackageId>2197649c-a2c6-4f89-94c8-4e52aa669dc8</GeneratedPackageId>
+    <GeneratedModuleId>{6d099c91-6aeb-47aa-8c89-2b9342a607a4}</GeneratedModuleId>
+    <GeneratedListId>{a318494f-4a0c-4203-b013-aaacf96285ff}</GeneratedListId>
+    <GeneratedProductId>{9809bc75-5af6-40a7-b415-7562fc128231}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>reAbUhymhXfnlvd2qAsD1FbeqGBLpR2jdrdLZmZYZes=</GeneratedClientSecret>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,6 @@
+C:\VimalKumar\test\OfficeApp1\WordTaskPaneAppWeb\bin\WordTaskPaneAppWeb.dll.config
+C:\VimalKumar\test\OfficeApp1\WordTaskPaneAppWeb\bin\WordTaskPaneAppWeb.dll
+C:\VimalKumar\test\OfficeApp1\WordTaskPaneAppWeb\bin\WordTaskPaneAppWeb.pdb
+C:\VimalKumar\test\OfficeApp1\WordTaskPaneAppWeb\obj\Debug\WordTaskPaneAppWeb.dll
+C:\VimalKumar\test\OfficeApp1\WordTaskPaneAppWeb\obj\Debug\WordTaskPaneAppWeb.pdb
+C:\VimalKumar\test\OfficeApp1\WordTaskPaneAppWeb\obj\Debug\WordTaskPaneAppWeb.csprojResolveAssemblyReference.cache

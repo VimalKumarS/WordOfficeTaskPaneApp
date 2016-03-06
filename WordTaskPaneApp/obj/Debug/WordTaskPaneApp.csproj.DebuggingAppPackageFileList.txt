@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\WordTaskPaneAppManifest.xml
+C:\VimalKumar\test\OfficeApp1\WordTaskPaneApp\bin\Debug\WordTaskPaneApp.debugapp
